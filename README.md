@@ -1,4 +1,3 @@
 مسدود شده ها
 
-
-Samsung Sm-A107f
+samsung----SM-A107F
